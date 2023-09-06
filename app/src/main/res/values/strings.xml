@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">set1SoYeonKee</string>
+
+    <string name="nameLabel">Name: </string>
+    <string name="nameInput">Enter your name</string>
+
+    <string name="courseLabel">Course: </string>
+    <string-array name="course_selection">
+        <item>Principles of Accounting</item>
+        <item>Entrepreneurship</item>
+        <item>Enterprise Networking</item>
+        <item>Social and Professional Issues</item>
+        <item>Mobile Application Development</item>
+    </string-array>
+    <string name="courseCodeLabel">Course code: </string>
+
+    <string name="markLabel">Mark: </string>
+    <string name="markInput">Enter your mark</string>
+
+    <string name="gradeLabel">Grade: </string>
+
+    <string name="getGradeBtnLabel">Get Grade</string>
+
+    <string name="contactLabel">Get grade</string>
+    <string name="contactBtnLabel">Contact us</string>
+
+    <string name="resultLabel">Result: </string>
+</resources>
